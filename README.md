@@ -11,7 +11,7 @@ GPU     | Adreno 308
 Memory  | 2 GB
 Shipped Android Version | Android 7.1.2 with MIUI 9
 Storage | 16 GB
-MicroSD | Up to 256 GB (Hybrid)
+MicroSD | Up to 256 GB (Hybrid in CN variant & dedicated in IN variant)
 Battery | 3000 mAh (non-removable)
 Dimensions | 140.4 x 70.1 x 8.4 mm
 Display | 720 x 1280 pixels, 5.0" IPS
